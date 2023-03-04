@@ -33,7 +33,7 @@ class TestOne(BaseClass):
         confirmPage.countryInput().send_keys("Ind")
         log.info("Entering country name as Ind")
 
-        self.verifyLinkPresence("India")
+        self.verifyLinkPresence("Indonesia")
         confirmPage.countrySelect().click()
         confirmPage.check().click()
         confirmPage.submit().click()
@@ -56,6 +56,7 @@ class TestOne(BaseClass):
 
         print(SuccessText)
         print("The received message from test is", SuccessText)
+
 
         print(SuccessText)
         print("The received message from test is", SuccessText)
