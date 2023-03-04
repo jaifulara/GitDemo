@@ -39,4 +39,5 @@ class TestOne(BaseClass):
         confirmPage.submit().click()
         SuccessText = confirmPage.success().text
         log.info("Text received from application is" + SuccessText)
+        print(SuccessText)
         assert ("Success!" in SuccessText)
