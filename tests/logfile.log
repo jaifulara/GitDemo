@@ -1,0 +1,259 @@
+2023-03-02 23:02:00,598 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:02:01,465 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:02:07,346 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:05:06,567 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:05:07,427 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:06:54,189 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:06:54,978 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:07:45,998 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:07:46,712 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:07:52,605 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:08:32,802 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:08:33,516 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:08:39,408 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:09:14,170 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:09:14,919 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:09:20,834 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:10:25,545 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:10:26,347 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:12:40,714 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:12:41,432 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:12:47,306 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:14:23,766 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:15:45,979 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:18:03,901 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:30:45,161 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:36:20,020 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:36:20,682 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:36:26,593 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:44:49,470 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:44:49,513 :INFO : test_e2e : iphone X
+2023-03-02 23:44:49,524 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:44:49,532 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:44:49,540 :INFO : test_e2e : Blackberry
+2023-03-02 23:44:50,369 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:44:56,293 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:45:43,445 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:45:43,503 :INFO : test_e2e : iphone X
+2023-03-02 23:45:43,517 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:45:43,524 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:45:43,538 :INFO : test_e2e : Blackberry
+2023-03-02 23:45:44,428 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:47:14,314 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:47:14,367 :INFO : test_e2e : iphone X
+2023-03-02 23:47:14,381 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:47:14,394 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:47:14,406 :INFO : test_e2e : Blackberry
+2023-03-02 23:47:15,332 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:47:51,798 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:47:51,845 :INFO : test_e2e : iphone X
+2023-03-02 23:47:51,854 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:47:51,861 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:47:51,869 :INFO : test_e2e : Blackberry
+2023-03-02 23:47:52,722 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:48:47,347 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:48:47,388 :INFO : test_e2e : iphone X
+2023-03-02 23:48:47,396 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:48:47,405 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:48:47,415 :INFO : test_e2e : Blackberry
+2023-03-02 23:48:48,277 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:48:54,180 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:49:17,959 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:49:18,007 :INFO : test_e2e : iphone X
+2023-03-02 23:49:18,018 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:49:18,027 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:49:18,036 :INFO : test_e2e : Blackberry
+2023-03-02 23:49:18,880 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:49:57,391 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:49:57,436 :INFO : test_e2e : iphone X
+2023-03-02 23:49:57,444 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:49:57,452 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:49:57,461 :INFO : test_e2e : Blackberry
+2023-03-02 23:49:58,254 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:50:04,144 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:50:56,582 :INFO : test_e2e : Getting all the card titles
+2023-03-02 23:50:56,629 :INFO : test_e2e : iphone X
+2023-03-02 23:50:56,636 :INFO : test_e2e : Samsung Note 8
+2023-03-02 23:50:56,647 :INFO : test_e2e : Nokia Edge
+2023-03-02 23:50:56,657 :INFO : test_e2e : Blackberry
+2023-03-02 23:50:57,468 :INFO : test_e2e : Entering country name as Ind
+2023-03-02 23:51:03,370 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-02 23:55:50,699 :INFO : testFormSubmission : First name is:J
+2023-03-02 23:55:50,837 :INFO : testFormSubmission : First name is:Jay
+2023-03-02 23:55:50,837 :INFO : testFormSubmission : First name is:Jay
+2023-03-02 23:55:50,903 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:55:50,903 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:55:50,903 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:58:17,468 :INFO : testFormSubmission : First name is:J
+2023-03-02 23:58:18,729 :INFO : testFormSubmission : First name is:Jay
+2023-03-02 23:58:18,729 :INFO : testFormSubmission : First name is:Jay
+2023-03-02 23:58:20,010 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:58:20,010 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:58:20,010 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:59:21,677 :INFO : testFormSubmission : First name is:J
+2023-03-02 23:59:30,587 :INFO : testFormSubmission : First name is:Jay
+2023-03-02 23:59:30,587 :INFO : testFormSubmission : First name is:Jay
+2023-03-02 23:59:40,014 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:59:40,014 :INFO : testFormSubmission : First name is:H
+2023-03-02 23:59:40,014 :INFO : testFormSubmission : First name is:H
+2023-03-03 00:00:30,432 :INFO : testFormSubmission : First name is:J
+2023-03-03 00:00:37,564 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 00:00:37,564 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 00:00:48,840 :INFO : testFormSubmission : First name is:H
+2023-03-03 00:00:48,840 :INFO : testFormSubmission : First name is:H
+2023-03-03 00:00:48,840 :INFO : testFormSubmission : First name is:H
+2023-03-03 00:01:11,013 :INFO : test_e2e : Getting all the card titles
+2023-03-03 00:01:11,151 :INFO : test_e2e : iphone X
+2023-03-03 00:01:11,165 :INFO : test_e2e : Samsung Note 8
+2023-03-03 00:01:11,195 :INFO : test_e2e : Nokia Edge
+2023-03-03 00:01:11,208 :INFO : test_e2e : Blackberry
+2023-03-03 00:01:12,151 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 00:01:18,152 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:08:21,990 :INFO : testFormSubmission : First name is:J
+2023-03-03 12:08:33,780 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:08:33,780 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:08:44,229 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:08:44,229 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:08:44,229 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:09:06,958 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:09:07,025 :INFO : test_e2e : iphone X
+2023-03-03 12:09:07,038 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:09:07,046 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:09:07,061 :INFO : test_e2e : Blackberry
+2023-03-03 12:09:07,950 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:09:13,994 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:47:46,856 :INFO : testFormSubmission : First name is:J
+2023-03-03 12:47:57,357 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:47:57,357 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:48:04,016 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:48:04,016 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:48:04,016 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:48:19,180 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:48:19,222 :INFO : test_e2e : iphone X
+2023-03-03 12:48:19,229 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:48:19,235 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:48:19,240 :INFO : test_e2e : Blackberry
+2023-03-03 12:48:19,982 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:48:25,831 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:50:30,862 :INFO : testFormSubmission : First name is:J
+2023-03-03 12:50:38,146 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:50:38,146 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:50:45,488 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:50:45,488 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:50:45,488 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:51:07,956 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:51:07,985 :INFO : test_e2e : iphone X
+2023-03-03 12:51:07,990 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:51:07,995 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:51:08,002 :INFO : test_e2e : Blackberry
+2023-03-03 12:51:08,836 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:51:14,724 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:53:12,565 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:53:12,605 :INFO : test_e2e : iphone X
+2023-03-03 12:53:12,613 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:53:12,619 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:53:12,624 :INFO : test_e2e : Blackberry
+2023-03-03 12:53:13,414 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:53:19,285 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:56:22,956 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:56:22,991 :INFO : test_e2e : iphone X
+2023-03-03 12:56:22,997 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:56:23,004 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:56:23,010 :INFO : test_e2e : Blackberry
+2023-03-03 12:56:23,774 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:56:29,674 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:57:39,879 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:57:39,915 :INFO : test_e2e : iphone X
+2023-03-03 12:57:39,921 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:57:39,928 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:57:39,934 :INFO : test_e2e : Blackberry
+2023-03-03 12:57:40,756 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:57:46,609 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 12:58:28,915 :INFO : testFormSubmission : First name is:J
+2023-03-03 12:58:35,453 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:58:35,453 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 12:58:41,829 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:58:41,829 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:58:41,829 :INFO : testFormSubmission : First name is:H
+2023-03-03 12:58:56,790 :INFO : test_e2e : Getting all the card titles
+2023-03-03 12:58:56,815 :INFO : test_e2e : iphone X
+2023-03-03 12:58:56,821 :INFO : test_e2e : Samsung Note 8
+2023-03-03 12:58:56,825 :INFO : test_e2e : Nokia Edge
+2023-03-03 12:58:56,830 :INFO : test_e2e : Blackberry
+2023-03-03 12:58:57,597 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 12:59:03,464 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 14:58:46,125 :INFO : testFormSubmission : First name is:J
+2023-03-03 14:58:53,127 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 14:58:53,127 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 14:59:01,871 :INFO : testFormSubmission : First name is:H
+2023-03-03 14:59:01,871 :INFO : testFormSubmission : First name is:H
+2023-03-03 14:59:01,871 :INFO : testFormSubmission : First name is:H
+2023-03-03 14:59:21,343 :INFO : test_e2e : Getting all the card titles
+2023-03-03 14:59:21,411 :INFO : test_e2e : iphone X
+2023-03-03 14:59:21,433 :INFO : test_e2e : Samsung Note 8
+2023-03-03 14:59:21,452 :INFO : test_e2e : Nokia Edge
+2023-03-03 14:59:21,482 :INFO : test_e2e : Blackberry
+2023-03-03 14:59:23,391 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 15:46:33,804 :INFO : testFormSubmission : First name is:J
+2023-03-03 15:46:40,154 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 15:46:40,154 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 15:46:46,888 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:46:46,888 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:46:46,888 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:47:01,916 :INFO : test_e2e : Getting all the card titles
+2023-03-03 15:47:01,945 :INFO : test_e2e : iphone X
+2023-03-03 15:47:01,951 :INFO : test_e2e : Samsung Note 8
+2023-03-03 15:47:01,955 :INFO : test_e2e : Nokia Edge
+2023-03-03 15:47:01,960 :INFO : test_e2e : Blackberry
+2023-03-03 15:47:02,702 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 15:47:08,524 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 15:48:58,672 :INFO : testFormSubmission : First name is:J
+2023-03-03 15:49:01,427 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 15:49:01,427 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 15:49:04,341 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:49:04,341 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:49:04,341 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:49:09,662 :INFO : test_e2e : Getting all the card titles
+2023-03-03 15:49:09,701 :INFO : test_e2e : iphone X
+2023-03-03 15:49:09,719 :INFO : test_e2e : Samsung Note 8
+2023-03-03 15:49:09,742 :INFO : test_e2e : Nokia Edge
+2023-03-03 15:49:09,762 :INFO : test_e2e : Blackberry
+2023-03-03 15:49:10,013 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 15:49:16,241 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 15:49:25,989 :INFO : testFormSubmission : First name is:J
+2023-03-03 15:49:29,235 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 15:49:29,235 :INFO : testFormSubmission : First name is:Jay
+2023-03-03 15:49:32,146 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:49:32,146 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:49:32,146 :INFO : testFormSubmission : First name is:H
+2023-03-03 15:49:37,812 :INFO : test_e2e : Getting all the card titles
+2023-03-03 15:49:37,853 :INFO : test_e2e : iphone X
+2023-03-03 15:49:37,865 :INFO : test_e2e : Samsung Note 8
+2023-03-03 15:49:37,877 :INFO : test_e2e : Nokia Edge
+2023-03-03 15:49:37,889 :INFO : test_e2e : Blackberry
+2023-03-03 15:49:38,124 :INFO : test_e2e : Entering country name as Ind
+2023-03-03 15:49:43,380 :INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-03 19:42:59,346 :INFO : testFormSubmission : First name is:Jon
+2023-03-03 19:44:49,894 :INFO : testFormSubmission : First name is:Jon
+2023-03-03 19:47:55,818 :INFO : testFormSubmission : First name is:Jon
