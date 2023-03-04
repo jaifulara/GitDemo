@@ -34,7 +34,7 @@ class TestOne(BaseClass):
         log.info("Entering country name as Ind")
 
         self.verifyLinkPresence("Indonesia")
-        confirmPage.countrySelect().click()
+        confirmPage.countrySelectIndonesia().click()
         confirmPage.check().click()
         confirmPage.submit().click()
         SuccessText = confirmPage.success().text
@@ -47,6 +47,7 @@ class TestOne(BaseClass):
 
     def test_e2e_India(self):
         log = self.getLogger()
+        self.driver.get("https://rahulshettyacademy.com/angularpractice/")
         homePage = HomePage(self.driver)
         checkOutPage = homePage.shopItems()
         log.info("Getting all the card titles")

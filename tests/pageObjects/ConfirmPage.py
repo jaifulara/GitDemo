@@ -8,6 +8,7 @@ class ConfirmPage:
 
     countryName = (By.ID, "country")
     countryIndia = (By.LINK_TEXT, "India")
+    countryIndonesia = (By.LINK_TEXT, "Indonesia")
     checkBox = (By.XPATH, "//div[@class='checkbox checkbox-primary']")
     submitBtn = (By.CSS_SELECTOR, "input[type='submit']")
     successMsg = (By.CLASS_NAME, "alert-success")
@@ -18,6 +19,9 @@ class ConfirmPage:
 
     def countrySelect(self):
         return self.driver.find_element(*ConfirmPage.countryIndia)
+
+    def countrySelectIndonesia(self):
+        return self.driver.find_element(*ConfirmPage.countryIndonesia)
 
     def check(self):
         return self.driver.find_element(*ConfirmPage.checkBox)
