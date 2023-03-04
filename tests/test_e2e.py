@@ -41,4 +41,22 @@ class TestOne(BaseClass):
         log.info("Text received from application is" + SuccessText)
         print(SuccessText)
         print("The received message from test is", SuccessText)
+
+        print(SuccessText)
+        print("The received message from test is", SuccessText)
+
+        print(SuccessText)
+        print("The received message from test is", SuccessText)
+
+        print(SuccessText)
+        print("The received message from test is", SuccessText)
+
+        print(SuccessText)
+        print("The received message from test is", SuccessText)
+
+        print(SuccessText)
+        print("The received message from test is", SuccessText)
+
+        print(SuccessText)
+        print("The received message from test is", SuccessText)
         assert ("Success!" in SuccessText)
